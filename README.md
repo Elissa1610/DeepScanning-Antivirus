@@ -49,7 +49,7 @@ Most AVs operate in user space and rely on Windows APIs — which malware can hi
 
 1. Download the latest version:
    ```
-    https://github.com/Elissa1610/DeepScanning-Antivirus/raw/refs/heads/main/Elissa's%20Antivirus.exe
+   https://github.com/Elissa1610/DeepScanning-Antivirus/raw/refs/heads/main/Elissa's%20Kernal%20AV.exe
    ```
 
 2. Right-click the EXE and choose:  
